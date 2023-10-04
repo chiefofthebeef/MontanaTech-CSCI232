@@ -9,7 +9,7 @@ In this lab, you will become familiar with GitHub as well as the importance of i
 **- Favorites:** Group B cars-  
   1. Audi Quattro S1 E2  
   2. Lancia Delta S4  
-  3. Peuguet 205 T16  
+  3. Peugeot 205 T16  
 
 ## Objectives
 - Learn how to fork a repository
