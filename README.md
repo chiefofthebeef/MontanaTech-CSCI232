@@ -5,8 +5,11 @@ In this lab, you will become familiar with GitHub as well as the importance of i
 **- Name:** Rider Willis  
 **- Course:** CSCI 232, Sec 01, Data Structures and Algorithms  
 **- Due:**   
-**- GitHub:** view the rest of my GitHub here: https://github.com/chiefofthebeef  
-**- Favorites:** Say what you are ranking (ex. ice cream flavors) followed by a numbered list of your **top three** favorites  
+**- GitHub:** [View the rest of my GitHub here](https://github.com/chiefofthebeef)  
+**- Favorites:** Group B cars-  
+  1. Audi Quattro S1 E2  
+  2. Lancia Delta S4  
+  3. Peuguet 205 T16  
 
 ## Objectives
 - Learn how to fork a repository
