@@ -6,7 +6,7 @@ In this lab, you will become familiar with GitHub as well as the importance of i
 **- Course:** CSCI 232, Sec 01, Data Structures and Algorithms  
 **- Due:**   
 **- GitHub:** [View the rest of my GitHub here](https://github.com/chiefofthebeef)  
-**- Favorites:** Group B cars-  
+**- Favorite Group B cars:**    
   1. Audi Quattro S1 E2  
   2. Lancia Delta S4  
   3. Peugeot 205 T16  
