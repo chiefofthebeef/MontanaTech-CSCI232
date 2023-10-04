@@ -4,7 +4,7 @@ In this lab, you will become familiar with GitHub as well as the importance of i
 ## Submission Information
 **- Name:** Rider Willis  
 **- Course:** CSCI 232, Sec 01, Data Structures and Algorithms  
-**- Due:**   
+**- Due:** 10/11/2023  
 **- GitHub:** [View the rest of my GitHub here](https://github.com/chiefofthebeef)  
 **- Favorite Group B cars:**    
   1. Audi Quattro S1 E2  
